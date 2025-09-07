@@ -1,4 +1,4 @@
-* Chai, X.; Tizard, J.; Blincoe, K. "Accessibility Rank: A Machine Learning Approach for Prioritizing Accessibility User Feedback," *Empirical Software Engineering (EMSE)*, 2025. doi: [10.1007/s10664-025-xxxxx](https://doi.org/10.1007/s10664-025-xxxxx)
+* Chai, X.; Tizard, J.; Blincoe, K. "Accessibility Rank: A Machine Learning Approach for Prioritizing Accessibility User Feedback," *Empirical Software Engineering (EMSE)*, 2025.
 * Zhang, Y.; Chen, S.; Fan, L.; Chen, C.; Li, X. "Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps (IRIS)," in *ESEC/FSE 2023*. doi: [10.1145/3611643.3616329](https://doi.org/10.1145/3611643.3616329)
 * Alshayban, A.; Malek, S. "AccessiText: Automated Detection of Text Accessibility Issues in Android Apps," in *ESEC/FSE 2022*. doi: [10.1145/3540250.3549118](https://doi.org/10.1145/3540250.3549118)
 * Rodriguez, A.; Gardey, J.C.; Grigera, J.; Rossi, G.; Garrido, A. "UX debt in an agile development process: evidence and characterization," *Software Quality Journal*, 31(4), 1467–1498, 2023. doi: [10.1007/s11219-023-09652-2](https://doi.org/10.1007/s11219-023-09652-2)
@@ -6,7 +6,7 @@
 * Yang, B.; Xing, Z.; Xia, X.; Hassan, A.E.; Li, S. "Don’t Do That! Hunting Down Visual Design Smells in Complex UIs against Design Guidelines," in *ICSE 2021*. doi: [10.1109/ICSE43902.2021.00075](https://doi.org/10.1109/ICSE43902.2021.00075)
 * Alotaibi, A.S.; Chiou, P.T.; Tawsif, F.M.; Halfond, W.G.J. "ScaleFix: An Automated Repair of UI Scaling Accessibility Issues in Android Applications," in *ICSME 2023*. doi: [10.1109/ICSME58846.2023.00025](https://doi.org/10.1109/ICSME58846.2023.00025)
 * Mehralian, F.; Salehnamadi, N.; Huq, S.F.; Malek, S. "Too Much Accessibility is Harmful! Automated Detection and Analysis of Overly Accessible Elements in Mobile Apps," in *ASE 2022*. doi: [10.1145/3551349.3560424](https://doi.org/10.1145/3551349.3560424)
-* Nair, P.V.; Lakshmi, A.; et al. "How Accessibility Affects Other Quality Attributes of Software," *Science of Computer Programming*, 2024. doi: [10.1016/j.scico.2024.xxxxxx](https://doi.org/10.1016/j.scico.2024.xxxxxx)
+* Nair, P.V.; Lakshmi, A.; et al. "How Accessibility Affects Other Quality Attributes of Software," *Science of Computer Programming*, 2024.
 * Salehnamadi, N.; He, Z.; Malek, S. "A11y Puppetry: Assistive-Technology Aided Manual Accessibility Testing in Mobile Apps," in *CHI 2023*. doi: [10.1145/3544548.3580752](https://doi.org/10.1145/3544548.3580752)
 * Lin, T.; Baltes, S.; Dashuber, V. "UX Debt: Developers Borrow While Users Pay," in *CHASE 2024*. doi: [10.1145/3641822.3641869](https://doi.org/10.1145/3641822.3641869)
 * Lin, B.; Huang, Q.; Chen, C.; Xing, Z. "IRIS-GPT/LLM for Accessibility," 2024.
